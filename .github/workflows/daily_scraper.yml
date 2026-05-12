@@ -1,4 +1,4 @@
-Sname: Daily Arbitrage Scraper
+name: Daily Arbitrage Scraper
 
 on:
   schedule:
