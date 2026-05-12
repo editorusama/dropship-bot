@@ -2,24 +2,21 @@ name: Daily Arbitrage Scraper
 
 on:
   schedule:
-    # Runs at 10:00 PM UTC = 8:00 AM AEST every day
     - cron: "0 22 * * *"
-
-  # Allow manual trigger from GitHub Actions tab
   workflow_dispatch:
 
 jobs:
   scrape:
     runs-on: ubuntu-latest
     permissions:
-      contents: write   # needed to commit products.json back to repo
+      contents: write
 
     steps:
       - name: Checkout repo
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
 
       - name: Set up Python
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@v6
         with:
           python-version: "3.12"
 
