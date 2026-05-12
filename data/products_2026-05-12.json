@@ -1,6 +1,439 @@
 {
   "date": "2026-05-12",
-  "generated_at": "2026-05-12T14:37:49.484046Z",
-  "total": 0,
-  "products": []
+  "generated_at": "2026-05-12T15:00:55.764725Z",
+  "total": 48,
+  "products": [
+    {
+      "name": "SENSARTE Nonstick Ceramic Cookware Set 13-Piece, Healthy Pots and Pans Set, Non-Toxic Kitchen Cooking Set with Stay-Cool",
+      "source": "Amazon AU",
+      "category": "kitchen",
+      "buy_price": 99.99,
+      "ebay_price": 149.98,
+      "profit": 49.99,
+      "roi_pct": 50.0
+    },
+    {
+      "name": "StormHero Large Orthopedic Dog Bed - XL Dog Sofa Beds for Medium Large Dogs 121 x 89 cm, Memory Foam Anxiety Pet Bed wit",
+      "source": "Amazon AU",
+      "category": "pet",
+      "buy_price": 99.99,
+      "ebay_price": 149.98,
+      "profit": 49.99,
+      "roi_pct": 50.0
+    },
+    {
+      "name": "Echo Dot (5th Gen, 2022 release) | Smart speaker with Alexa | Charcoal Reducing CO2",
+      "source": "Amazon AU",
+      "category": "home",
+      "buy_price": 99.0,
+      "ebay_price": 148.5,
+      "profit": 49.5,
+      "roi_pct": 50.0
+    },
+    {
+      "name": "KOCH SYSTEME CS 17 PCS Pots and Pans Set, Nonstick Cookware Set Detachable Handle, Induction Kitchen Cookware Sets Non S",
+      "source": "Amazon AU",
+      "category": "kitchen",
+      "buy_price": 94.99,
+      "ebay_price": 142.48,
+      "profit": 47.49,
+      "roi_pct": 50.0
+    },
+    {
+      "name": "Delivery \\u0026 service",
+      "source": "AliExpress",
+      "category": "kitchen",
+      "buy_price": 91.19,
+      "ebay_price": 136.78,
+      "profit": 45.59,
+      "roi_pct": 50.0
+    },
+    {
+      "name": "Kenmore 12 Cup Drip Coffee Maker - 1.8L Programmable Coffee Machine With Glass Pot, Regular & Bold Brew, Auto Shut Off L",
+      "source": "Amazon AU",
+      "category": "kitchen",
+      "buy_price": 89.99,
+      "ebay_price": 134.98,
+      "profit": 44.99,
+      "roi_pct": 50.0
+    },
+    {
+      "name": "meross Smart Garage Door Opener Remote, Compatible with Apple HomeKit, Amazon Alexa, Google Assistant, SmartThings, Mult",
+      "source": "Amazon AU",
+      "category": "home",
+      "buy_price": 89.99,
+      "ebay_price": 134.98,
+      "profit": 44.99,
+      "roi_pct": 50.0
+    },
+    {
+      "name": "Led smart bulb-AliExpress",
+      "source": "AliExpress",
+      "category": "home",
+      "buy_price": 87.41,
+      "ebay_price": 131.12,
+      "profit": 43.71,
+      "roi_pct": 50.0
+    },
+    {
+      "name": "OREiN Matter Smart Light Bulb, Smart Light Bulbs Work with Apple Home, Alexa, Google Home, SmartThings, A19 Color Changi",
+      "source": "Amazon AU",
+      "category": "home",
+      "buy_price": 86.7,
+      "ebay_price": 130.05,
+      "profit": 43.35,
+      "roi_pct": 50.0
+    },
+    {
+      "name": "Breville the Aroma Style Electric Drip Coffee Maker, Brushed Stainless Steel, LCM700BSS",
+      "source": "Amazon AU",
+      "category": "kitchen",
+      "buy_price": 85.0,
+      "ebay_price": 127.5,
+      "profit": 42.5,
+      "roi_pct": 50.0
+    },
+    {
+      "name": "Quality \\u0026 trust ",
+      "source": "AliExpress",
+      "category": "employee",
+      "buy_price": 83.37,
+      "ebay_price": 125.06,
+      "profit": 41.69,
+      "roi_pct": 50.0
+    },
+    {
+      "name": "Linkind Smart Light Bulbs, Smart Bulb That Work with Alexa & Google Home, LED Light Bulbs Color Changing, 104 Preset Sce",
+      "source": "Amazon AU",
+      "category": "home",
+      "buy_price": 83.05,
+      "ebay_price": 124.57,
+      "profit": 41.52,
+      "roi_pct": 50.0
+    },
+    {
+      "name": "Best Cookware Set Reviews and Buying Guide for 2024",
+      "source": "AliExpress",
+      "category": "kitchen",
+      "buy_price": 80.39,
+      "ebay_price": 120.59,
+      "profit": 40.2,
+      "roi_pct": 50.0
+    },
+    {
+      "name": "Casfuy Automatic Cat Feeder Cordless - Automatic Cat Food Dispenser for Wet Moist Food with 4 Ice Packs Rechargeable Aut",
+      "source": "Amazon AU",
+      "category": "pet",
+      "buy_price": 79.99,
+      "ebay_price": 119.98,
+      "profit": 39.99,
+      "roi_pct": 50.0
+    },
+    {
+      "name": "Marchul Enclosed Stainless Steel Cat Litter Box with Lid & Drawer Design, XL Extra Large for Indoor Cats, Metal Covered ",
+      "source": "Amazon AU",
+      "category": "pet",
+      "buy_price": 79.99,
+      "ebay_price": 119.98,
+      "profit": 39.99,
+      "roi_pct": 50.0
+    },
+    {
+      "name": "Seat Cushion & Lumbar Support Pillow for Office Chair,Memory Foam Chair Cushions for Tailbone Pain, Non-Slip Back Suppor",
+      "source": "Amazon AU",
+      "category": "employee",
+      "buy_price": 76.06,
+      "ebay_price": 114.09,
+      "profit": 38.03,
+      "roi_pct": 50.0
+    },
+    {
+      "name": "Govee LED Smart Light Bulbs, 1000LM Color Changing Light Bulb, Wi-Fi & Bluetooth, Work with Alexa and Google Assistant, ",
+      "source": "Amazon AU",
+      "category": "home",
+      "buy_price": 72.24,
+      "ebay_price": 108.36,
+      "profit": 36.12,
+      "roi_pct": 50.0
+    },
+    {
+      "name": "Zarler Extra Large Stainless Steel Litter Box with Lid, XXL 58 L x 37 W x 26 H CM Metal Litter Boxes for Big Cats with H",
+      "source": "Amazon AU",
+      "category": "pet",
+      "buy_price": 69.99,
+      "ebay_price": 104.98,
+      "profit": 34.99,
+      "roi_pct": 50.0
+    },
+    {
+      "name": "BFPETHOME Dog Beds for Large Dogs, Orthopedic Dog Bed for Medium Large Dogs,Big Waterproof Couch Dog Pet Bed with Remova",
+      "source": "Amazon AU",
+      "category": "pet",
+      "buy_price": 69.99,
+      "ebay_price": 104.98,
+      "profit": 34.99,
+      "roi_pct": 50.0
+    },
+    {
+      "name": "Premium Orthopedic Dog Bed for Large/Medium Dogs, High-Density Egg Crate Foam Deep Sleep Crate Pad for Joint Relief, 100",
+      "source": "Amazon AU",
+      "category": "pet",
+      "buy_price": 69.99,
+      "ebay_price": 104.98,
+      "profit": 34.99,
+      "roi_pct": 50.0
+    },
+    {
+      "name": "meross Mini Smart Plug with Energy Monitor, 10A WiFi Outlet Socket Support Voice & App Remote Control, Timer, Offline Co",
+      "source": "Amazon AU",
+      "category": "home",
+      "buy_price": 69.99,
+      "ebay_price": 104.98,
+      "profit": 34.99,
+      "roi_pct": 50.0
+    },
+    {
+      "name": "Stainless Steel Litter Box, 60 x 40 x 30 cm, Extra Large Cat Litter Tray with Lid for Big Cats Non-Stick Litter Boxes wi",
+      "source": "Amazon AU",
+      "category": "pet",
+      "buy_price": 69.59,
+      "ebay_price": 104.39,
+      "profit": 34.8,
+      "roi_pct": 50.0
+    },
+    {
+      "name": "LOUTYTUO Seat Cushion Pillow,100% Memory Foam and Washable Cover,for Office Chair,Car Seat and Wheelchair, Soft Support ",
+      "source": "Amazon AU",
+      "category": "employee",
+      "buy_price": 69.01,
+      "ebay_price": 103.52,
+      "profit": 34.51,
+      "roi_pct": 50.0
+    },
+    {
+      "name": "Everlasting Comfort Doctor Recommended Memory Foam Seat Cushion for Office Chairs & Car - Ergonomic Office Desk Accessor",
+      "source": "Amazon AU",
+      "category": "employee",
+      "buy_price": 66.38,
+      "ebay_price": 99.57,
+      "profit": 33.19,
+      "roi_pct": 50.0
+    },
+    {
+      "name": "SYLVANIA Wifi LED Smart Light Bulb, 60W Equivalent Full Color and Tunable White A19, Dimmable, Compatible with Alexa and",
+      "source": "Amazon AU",
+      "category": "home",
+      "buy_price": 65.01,
+      "ebay_price": 97.52,
+      "profit": 32.51,
+      "roi_pct": 50.0
+    },
+    {
+      "name": "Deals \\u0026 discounts",
+      "source": "AliExpress",
+      "category": "employee",
+      "buy_price": 64.59,
+      "ebay_price": 96.89,
+      "profit": 32.3,
+      "roi_pct": 50.0
+    },
+    {
+      "name": "Amazon Basics No-Mess Hooded Cat Litter Box, 61 x 46 x 43 Centimeters, Large",
+      "source": "Amazon AU",
+      "category": "pet",
+      "buy_price": 63.67,
+      "ebay_price": 95.5,
+      "profit": 31.83,
+      "roi_pct": 50.0
+    },
+    {
+      "name": "ComfiLife Premium Gel & Memory Foam Seat Cushion \u2013 Doctor Recommended Office Chair Cushion, Car Seat Cushion \u2013 Chair Cus",
+      "source": "Amazon AU",
+      "category": "employee",
+      "buy_price": 63.56,
+      "ebay_price": 95.34,
+      "profit": 31.78,
+      "roi_pct": 50.0
+    },
+    {
+      "name": "Dust Storage Type",
+      "source": "AliExpress",
+      "category": "home",
+      "buy_price": 63.37,
+      "ebay_price": 95.05,
+      "profit": 31.68,
+      "roi_pct": 50.0
+    },
+    {
+      "name": "Shipping from ",
+      "source": "AliExpress",
+      "category": "home",
+      "buy_price": 63.37,
+      "ebay_price": 95.05,
+      "profit": 31.68,
+      "roi_pct": 50.0
+    },
+    {
+      "name": "Orthopedic Dog Bed for Large Dogs - Waterproof Sofa Bed with Removable Washable Cover, Orthopedic Support for Joint Pain",
+      "source": "Amazon AU",
+      "category": "pet",
+      "buy_price": 62.98,
+      "ebay_price": 94.47,
+      "profit": 31.49,
+      "roi_pct": 50.0
+    },
+    {
+      "name": "Bialetti - Moka Express Stovetop Espresso Maker, 6 Cups (270 ml) Capacity \u2013 Makes Real Italian Coffee \u2013 Iconic Moka Pot ",
+      "source": "Amazon AU",
+      "category": "kitchen",
+      "buy_price": 62.97,
+      "ebay_price": 94.45,
+      "profit": 31.48,
+      "roi_pct": 50.0
+    },
+    {
+      "name": "Bialetti New Venus Stovetop Espresso Coffee Maker | 4 Cup (5.7 Oz) Stainless Steel | Suitable for All Hobs Including Ind",
+      "source": "Amazon AU",
+      "category": "kitchen",
+      "buy_price": 62.97,
+      "ebay_price": 94.45,
+      "profit": 31.48,
+      "roi_pct": 50.0
+    },
+    {
+      "name": "Vive Full Lumbar Cushion - Memory Foam Contour Support for Lower Back Pain - Ergonomic Pressure Relief for Office Chair,",
+      "source": "Amazon AU",
+      "category": "employee",
+      "buy_price": 62.23,
+      "ebay_price": 93.34,
+      "profit": 31.11,
+      "roi_pct": 50.0
+    },
+    {
+      "name": "About this ad",
+      "source": "AliExpress",
+      "category": "employee",
+      "buy_price": 61.99,
+      "ebay_price": 92.98,
+      "profit": 30.99,
+      "roi_pct": 50.0
+    },
+    {
+      "name": "LED Smart Bulb: A Comprehensive Guide for Smart Home Lighting",
+      "source": "AliExpress",
+      "category": "home",
+      "buy_price": 61.19,
+      "ebay_price": 91.78,
+      "profit": 30.59,
+      "roi_pct": 50.0
+    },
+    {
+      "name": "Orthopedic Dog Bed - Dog Sofa Beds for Small/Medium Dogs, Memory Foam Anxiety Pet Bed with Warm Mattress Cushion, Washab",
+      "source": "Amazon AU",
+      "category": "pet",
+      "buy_price": 59.99,
+      "ebay_price": 89.98,
+      "profit": 29.99,
+      "roi_pct": 50.0
+    },
+    {
+      "name": "Memory Foam Large Dog Bed \uff0cOrthopedic Pet Bed for Large Dogs, Ultra Comfortable Dog Sofa with Supportive Memory Foam Cus",
+      "source": "Amazon AU",
+      "category": "pet",
+      "buy_price": 59.99,
+      "ebay_price": 89.98,
+      "profit": 29.99,
+      "roi_pct": 50.0
+    },
+    {
+      "name": "meross Matter Presence Sensor, Battery-Powered Smart Motion Sensor with AI Learning, IP67 PIR & Light & mmWave Radar, Ma",
+      "source": "Amazon AU",
+      "category": "home",
+      "buy_price": 59.99,
+      "ebay_price": 89.98,
+      "profit": 29.99,
+      "roi_pct": 50.0
+    },
+    {
+      "name": "StormHero Orthopedic Dog Bed, Large Dog Sofa Beds for Medium, Large Dogs, Memory Foam Anxiety Pet Bed X Large with Warm ",
+      "source": "Amazon AU",
+      "category": "pet",
+      "buy_price": 59.49,
+      "ebay_price": 89.23,
+      "profit": 29.74,
+      "roi_pct": 50.0
+    },
+    {
+      "name": "Who is the advertiser?",
+      "source": "AliExpress",
+      "category": "home",
+      "buy_price": 58.68,
+      "ebay_price": 88.02,
+      "profit": 29.34,
+      "roi_pct": 50.0
+    },
+    {
+      "name": "Braun Household PurShine KF 1500 BK Drip Coffee Maker with Glass Jug for up to 10 Cups, OptiBrew System, Automatic Shut-",
+      "source": "Amazon AU",
+      "category": "kitchen",
+      "buy_price": 58.0,
+      "ebay_price": 87.0,
+      "profit": 29.0,
+      "roi_pct": 50.0
+    },
+    {
+      "name": "X Large Memory Foam Seat Cushion Lumbar Support Pillow for Sciatica & Tailbone Pressure Relief Coccyx Pad for Office Cha",
+      "source": "Amazon AU",
+      "category": "employee",
+      "buy_price": 56.7,
+      "ebay_price": 85.05,
+      "profit": 28.35,
+      "roi_pct": 50.0
+    },
+    {
+      "name": "Why am I seeing this ad?",
+      "source": "AliExpress",
+      "category": "employee",
+      "buy_price": 53.39,
+      "ebay_price": 80.09,
+      "profit": 26.7,
+      "roi_pct": 50.0
+    },
+    {
+      "name": "Ad targeting information",
+      "source": "AliExpress",
+      "category": "home",
+      "buy_price": 53.01,
+      "ebay_price": 79.52,
+      "profit": 26.51,
+      "roi_pct": 50.0
+    },
+    {
+      "name": "How to manage your personal data used on ads",
+      "source": "AliExpress",
+      "category": "employee",
+      "buy_price": 52.39,
+      "ebay_price": 78.59,
+      "profit": 26.2,
+      "roi_pct": 50.0
+    },
+    {
+      "name": "Enclosed Stainless Steel Cat Litter Box with Lid, Anti Splashing Odorless Metal Litter Pan Tray with High Wall Sides Enc",
+      "source": "Amazon AU",
+      "category": "pet",
+      "buy_price": 51.3,
+      "ebay_price": 76.95,
+      "profit": 25.65,
+      "roi_pct": 50.0
+    },
+    {
+      "name": "Price description",
+      "source": "AliExpress",
+      "category": "home",
+      "buy_price": 50.68,
+      "ebay_price": 76.02,
+      "profit": 25.34,
+      "roi_pct": 50.0
+    }
+  ]
 }
