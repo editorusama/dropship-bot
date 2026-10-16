@@ -1,0 +1,497 @@
+{
+  "date": "2026-10-16",
+  "generated_at": "2026-10-16T00:09:16.263659Z",
+  "total": 49,
+  "products": [
+    {
+      "name": "Frienhund 7L Automatic Cat Feeder with 2K Camera, 5G&2.4G WiFi Supported",
+      "source": "Amazon AU",
+      "category": "pet",
+      "buy_price": 99.98,
+      "source_url": "https://www.amazon.com.au/dp/B0DCNNN5FC",
+      "ebay_price": 149.97,
+      "profit": 49.99,
+      "roi_pct": 50.0
+    },
+    {
+      "name": "With Water Dispenser",
+      "source": "AliExpress",
+      "category": "pet",
+      "buy_price": 98.54,
+      "source_url": "https://www.aliexpress.com/item/1005007086094845.html",
+      "ebay_price": 147.81,
+      "profit": 49.27,
+      "roi_pct": 50.0
+    },
+    {
+      "name": "Breville the Aroma Style Electric Drip Coffee Maker, Brushed Stainless Steel, LCM700BSS",
+      "source": "Amazon AU",
+      "category": "kitchen",
+      "buy_price": 98.0,
+      "source_url": "https://www.amazon.com.au/dp/B08VD7779D",
+      "ebay_price": 147.0,
+      "profit": 49.0,
+      "roi_pct": 50.0
+    },
+    {
+      "name": "Fruit \\u0026 Vegetable Tools Type",
+      "source": "AliExpress",
+      "category": "kitchen",
+      "buy_price": 96.18,
+      "source_url": "https://www.aliexpress.com/item/1005012734379488.html",
+      "ebay_price": 144.27,
+      "profit": 48.09,
+      "roi_pct": 50.0
+    },
+    {
+      "name": "Why am I seeing this ad?",
+      "source": "AliExpress",
+      "category": "kitchen",
+      "buy_price": 95.24,
+      "source_url": "https://www.aliexpress.com/item/1005011527913847.html",
+      "ebay_price": 142.86,
+      "profit": 47.62,
+      "roi_pct": 50.0
+    },
+    {
+      "name": "How to Choose the Best Coffee Maker for Your Home or Office",
+      "source": "AliExpress",
+      "category": "kitchen",
+      "buy_price": 93.87,
+      "source_url": "https://www.aliexpress.com/item/1005010018609300.html",
+      "ebay_price": 140.81,
+      "profit": 46.94,
+      "roi_pct": 50.0
+    },
+    {
+      "name": "Best Cordless Vacuums: A Buyer\u2019s Guide and Real-World Testing",
+      "source": "AliExpress",
+      "category": "home",
+      "buy_price": 92.0,
+      "source_url": "https://www.aliexpress.com/item/1005007448854066.html",
+      "ebay_price": 138.0,
+      "profit": 46.0,
+      "roi_pct": 50.0
+    },
+    {
+      "name": "Kenmore 12 Cup Drip Coffee Maker - 1.8L Programmable Coffee Machine With Glass Pot, Regular & Bold Brew, Auto Shut Off L",
+      "source": "Amazon AU",
+      "category": "kitchen",
+      "buy_price": 89.99,
+      "source_url": "https://www.amazon.com.au/dp/B0CGDYNLTM",
+      "ebay_price": 134.98,
+      "profit": 44.99,
+      "roi_pct": 50.0
+    },
+    {
+      "name": "oneisall 5G WiFi Automatic Cat Feeder with Camera,1080P HD Video Global Recycled Standard Global Recycled Standard Globa",
+      "source": "Amazon AU",
+      "category": "pet",
+      "buy_price": 89.99,
+      "source_url": "https://www.amazon.com.au/dp/B0DSC5NKQJ",
+      "ebay_price": 134.98,
+      "profit": 44.99,
+      "roi_pct": 50.0
+    },
+    {
+      "name": "oneisall Automatic Cat Feeder with WiFi App Control, 3.5L/12Cups Pet Feeder Global Recycled Standard Global Recycled Sta",
+      "source": "Amazon AU",
+      "category": "pet",
+      "buy_price": 89.99,
+      "source_url": "https://www.amazon.com.au/dp/B0C5X1SLR8",
+      "ebay_price": 134.98,
+      "profit": 44.99,
+      "roi_pct": 50.0
+    },
+    {
+      "name": "Amazon Basics Non-Stick Cookware Set, Pots and Pans - 8-Piece Set",
+      "source": "Amazon AU",
+      "category": "kitchen",
+      "buy_price": 89.9,
+      "source_url": "https://www.amazon.com.au/dp/B074817DK1",
+      "ebay_price": 134.85,
+      "profit": 44.95,
+      "roi_pct": 50.0
+    },
+    {
+      "name": "Posture Scale for Body Weight and Fat, Digital Bathroom Scale BMI Weighing Bluetooth Body Fat Scale, 8 Electrode Smart B",
+      "source": "Amazon AU",
+      "category": "home",
+      "buy_price": 86.9,
+      "source_url": "https://www.amazon.com.au/s?k=Posture+Scale+for+Body+Weight+and+Fat%2C+Digital+Bathroom+Scale+BMI+Weighing+Bluet",
+      "ebay_price": 130.35,
+      "profit": 43.45,
+      "roi_pct": 50.0
+    },
+    {
+      "name": "oneisall 5G WiFi Automatic Cat Feeder for 2 Cats, App Control, 20 Cups/5L Global Recycled Standard Global Recycled Stand",
+      "source": "Amazon AU",
+      "category": "pet",
+      "buy_price": 85.49,
+      "source_url": "https://www.amazon.com.au/dp/B0C5X4N132",
+      "ebay_price": 128.23,
+      "profit": 42.74,
+      "roi_pct": 50.0
+    },
+    {
+      "name": "Compatible Systems",
+      "source": "AliExpress",
+      "category": "employee",
+      "buy_price": 85.04,
+      "source_url": "https://www.aliexpress.com/item/1005008618608158.html",
+      "ebay_price": 127.56,
+      "profit": 42.52,
+      "roi_pct": 50.0
+    },
+    {
+      "name": "Ergonomic Chair Cushion for Back Support - AliExpress",
+      "source": "AliExpress",
+      "category": "employee",
+      "buy_price": 83.15,
+      "source_url": "https://www.aliexpress.com/item/1005013174550688.html",
+      "ebay_price": 124.73,
+      "profit": 41.58,
+      "roi_pct": 50.0
+    },
+    {
+      "name": "Quality \\u0026 trust ",
+      "source": "AliExpress",
+      "category": "kitchen",
+      "buy_price": 82.84,
+      "source_url": "https://www.aliexpress.com/item/1005013070912442.html",
+      "ebay_price": 124.26,
+      "profit": 41.42,
+      "roi_pct": 50.0
+    },
+    {
+      "name": "Nityers Automatic Cat Feeder, 8L/34 Cups Automatic Dog Feeder Global Recycled Standard Global Recycled Standard Global R",
+      "source": "Amazon AU",
+      "category": "pet",
+      "buy_price": 79.99,
+      "source_url": "https://www.amazon.com.au/dp/B0D8RYXG5B",
+      "ebay_price": 119.98,
+      "profit": 39.99,
+      "roi_pct": 50.0
+    },
+    {
+      "name": "Marchul Enclosed Stainless Steel Cat Litter Box with Lid & Drawer Design for Indoor All Lifestyles Cats, Metal Covered C",
+      "source": "Amazon AU",
+      "category": "pet",
+      "buy_price": 79.99,
+      "source_url": "https://www.amazon.com.au/dp/B0DXF8KP3P",
+      "ebay_price": 119.98,
+      "profit": 39.99,
+      "roi_pct": 50.0
+    },
+    {
+      "name": "Automatic Cat Feeders - 4L Cat Food Dispenser Easy to Use,with Stainless Steel Bowl, 1-6 Meals Dry Food Programmable Por",
+      "source": "Amazon AU",
+      "category": "pet",
+      "buy_price": 75.99,
+      "source_url": "https://www.amazon.com.au/dp/B0H88HZ2VH",
+      "ebay_price": 113.98,
+      "profit": 37.99,
+      "roi_pct": 50.0
+    },
+    {
+      "name": "XL Seat Cushion, 4 inch Thick Memory Foam Cushions for Office Chair, Car Seat, Wheelchair, Relieving Pressure Tailbone S",
+      "source": "Amazon AU",
+      "category": "employee",
+      "buy_price": 74.99,
+      "source_url": "https://www.amazon.com.au/dp/B0GX396JLP",
+      "ebay_price": 112.48,
+      "profit": 37.49,
+      "roi_pct": 50.0
+    },
+    {
+      "name": "Amazon Basics No-Mess Hooded Cat Litter Box, 61 x 46 x 43 Centimeters, Large",
+      "source": "Amazon AU",
+      "category": "pet",
+      "buy_price": 74.9,
+      "source_url": "https://www.amazon.com.au/dp/B0752V2ZD7",
+      "ebay_price": 112.35,
+      "profit": 37.45,
+      "roi_pct": 50.0
+    },
+    {
+      "name": "Power Source",
+      "source": "AliExpress",
+      "category": "pet",
+      "buy_price": 74.16,
+      "source_url": "https://www.aliexpress.com/item/1005012530560248.html",
+      "ebay_price": 111.24,
+      "profit": 37.08,
+      "roi_pct": 50.0
+    },
+    {
+      "name": "Shipping from ",
+      "source": "AliExpress",
+      "category": "kitchen",
+      "buy_price": 71.59,
+      "source_url": "https://www.aliexpress.com/item/1005010089604381.html",
+      "ebay_price": 107.39,
+      "profit": 35.8,
+      "roi_pct": 50.0
+    },
+    {
+      "name": "Zarler Extra Large Stainless Steel Litter Box with Lid, XXL 58 L x 37 W x 26 H CM Metal Litter Boxes for Big Cats with H",
+      "source": "Amazon AU",
+      "category": "pet",
+      "buy_price": 69.99,
+      "source_url": "https://www.amazon.com.au/dp/B0F4363FRH",
+      "ebay_price": 104.98,
+      "profit": 34.99,
+      "roi_pct": 50.0
+    },
+    {
+      "name": "Orthopedic Dog Bed with Memory Foam - AliExpress",
+      "source": "AliExpress",
+      "category": "pet",
+      "buy_price": 69.99,
+      "source_url": "https://www.aliexpress.com/item/1005012688566423.html",
+      "ebay_price": 104.98,
+      "profit": 34.99,
+      "roi_pct": 50.0
+    },
+    {
+      "name": "XXL Stainless Steel Cat Litter Box with Lid, Enclosed Metal Kitty Toilet, Front Entry & Top Exit, Scoop & Mat Included, ",
+      "source": "Amazon AU",
+      "category": "pet",
+      "buy_price": 68.99,
+      "source_url": "https://www.amazon.com.au/dp/B0FPC7KYWN",
+      "ebay_price": 103.48,
+      "profit": 34.49,
+      "roi_pct": 50.0
+    },
+    {
+      "name": "How to manage your personal data used on ads",
+      "source": "AliExpress",
+      "category": "kitchen",
+      "buy_price": 68.41,
+      "source_url": "https://www.aliexpress.com/item/1005011601888355.html",
+      "ebay_price": 102.61,
+      "profit": 34.2,
+      "roi_pct": 50.0
+    },
+    {
+      "name": "11 Piece Pots and Pans Set, Safe Nonstick Cookware Set Detachable Handle, Induction Kitchen Cookware with Removable Hand",
+      "source": "Amazon AU",
+      "category": "kitchen",
+      "buy_price": 67.99,
+      "source_url": "https://www.amazon.com.au/dp/B0GYSBWRMJ",
+      "ebay_price": 101.98,
+      "profit": 33.99,
+      "roi_pct": 50.0
+    },
+    {
+      "name": "oneisall Automatic Cat Feeder for 2 Cats Pets, Timed Cat Food Dispenser Global Recycled Standard Global Recycled Standar",
+      "source": "Amazon AU",
+      "category": "pet",
+      "buy_price": 66.49,
+      "source_url": "https://www.amazon.com.au/dp/B0C5X2G933",
+      "ebay_price": 99.73,
+      "profit": 33.24,
+      "roi_pct": 50.0
+    },
+    {
+      "name": "Yuposl Automatic Cat Feeder, 5G WiFi Automatic Dog Feeder, 4L Cat Feeder, Dual-Band WiFi APP Control for Remote Feeding,",
+      "source": "Amazon AU",
+      "category": "pet",
+      "buy_price": 65.99,
+      "source_url": "https://www.amazon.com.au/dp/B0CKMTZ8PJ",
+      "ebay_price": 98.98,
+      "profit": 32.99,
+      "roi_pct": 50.0
+    },
+    {
+      "name": "About this ad",
+      "source": "AliExpress",
+      "category": "kitchen",
+      "buy_price": 65.4,
+      "source_url": "https://www.aliexpress.com/item/1005010769144375.html",
+      "ebay_price": 98.1,
+      "profit": 32.7,
+      "roi_pct": 50.0
+    },
+    {
+      "name": "Best Cookware Set Reviews and Buying Guide for 2024",
+      "source": "AliExpress",
+      "category": "kitchen",
+      "buy_price": 61.69,
+      "source_url": "https://www.aliexpress.com/item/1005012847294757.html",
+      "ebay_price": 92.53,
+      "profit": 30.84,
+      "roi_pct": 50.0
+    },
+    {
+      "name": "Bialetti New Venus Stovetop Espresso Coffee Maker | 4 Cup (5.7 Oz) Stainless Steel | Suitable for All Hobs Including Ind",
+      "source": "Amazon AU",
+      "category": "kitchen",
+      "buy_price": 61.27,
+      "source_url": "https://www.amazon.com.au/dp/B08556XV39",
+      "ebay_price": 91.91,
+      "profit": 30.64,
+      "roi_pct": 50.0
+    },
+    {
+      "name": "UGREEN USB C Dock 10-in-1 with Dual HDMI 4K@60Hz, Single 8K@30Hz | Gigabit Ethernet, 100W PD, Type C & A Data, SD/TF Por",
+      "source": "Amazon AU",
+      "category": "employee",
+      "buy_price": 60.79,
+      "source_url": "https://www.amazon.com.au/dp/B0BXDQS4BD",
+      "ebay_price": 91.19,
+      "profit": 30.4,
+      "roi_pct": 50.0
+    },
+    {
+      "name": "TRAVEL EASE Ergonomic Lumbar Support Cushion, Memory Foam Back Support for Car Seat Office Chair Gaming Chair, Backrest ",
+      "source": "Amazon AU",
+      "category": "employee",
+      "buy_price": 59.99,
+      "source_url": "https://www.amazon.com.au/dp/B096RRKV2Y",
+      "ebay_price": 89.98,
+      "profit": 29.99,
+      "roi_pct": 50.0
+    },
+    {
+      "name": "FORTEM Seat Cushion & Lumbar Support for Office Chair, Car Seat Cushions",
+      "source": "Amazon AU",
+      "category": "employee",
+      "buy_price": 59.99,
+      "source_url": "https://www.amazon.com.au/dp/B01N6KTU29",
+      "ebay_price": 89.98,
+      "profit": 29.99,
+      "roi_pct": 50.0
+    },
+    {
+      "name": "SONOFF Z-Wave 800 Dongle Plus (Dongle-PZG23), USB Stick with EFR32ZG23, Compatible with Home Assistant & openHAB, S2 Sec",
+      "source": "Amazon AU",
+      "category": "home",
+      "buy_price": 57.8,
+      "source_url": "https://www.amazon.com.au/s?k=SONOFF+Z-Wave+800+Dongle+Plus+%28Dongle-PZG23%29%2C+USB+Stick+with+EFR32ZG23%2C+Compatib",
+      "ebay_price": 86.7,
+      "profit": 28.9,
+      "roi_pct": 50.0
+    },
+    {
+      "name": "Delivery \\u0026 service",
+      "source": "AliExpress",
+      "category": "kitchen",
+      "buy_price": 57.0,
+      "source_url": "https://www.aliexpress.com/item/1005007608809462.html",
+      "ebay_price": 85.5,
+      "profit": 28.5,
+      "roi_pct": 50.0
+    },
+    {
+      "name": "Ad targeting information",
+      "source": "AliExpress",
+      "category": "kitchen",
+      "buy_price": 56.42,
+      "source_url": "https://www.aliexpress.com/item/1005009994727992.html",
+      "ebay_price": 84.63,
+      "profit": 28.21,
+      "roi_pct": 50.0
+    },
+    {
+      "name": "Smart Light Bulbs 6Pack, WiFi Led Light Bulbs Compatible with Alexa Google Home, Color Changing Light, E27 A19 10W 800LM",
+      "source": "Amazon AU",
+      "category": "home",
+      "buy_price": 55.99,
+      "source_url": "https://www.amazon.com.au/dp/B0CY232FZY",
+      "ebay_price": 83.98,
+      "profit": 27.99,
+      "roi_pct": 50.0
+    },
+    {
+      "name": "Who is the advertiser?",
+      "source": "AliExpress",
+      "category": "kitchen",
+      "buy_price": 55.67,
+      "source_url": "https://www.aliexpress.com/item/1005010257615752.html",
+      "ebay_price": 83.5,
+      "profit": 27.83,
+      "roi_pct": 50.0
+    },
+    {
+      "name": "Price description",
+      "source": "AliExpress",
+      "category": "kitchen",
+      "buy_price": 55.59,
+      "source_url": "https://www.aliexpress.com/item/1005012824821277.html",
+      "ebay_price": 83.39,
+      "profit": 27.8,
+      "roi_pct": 50.0
+    },
+    {
+      "name": "Kit Number",
+      "source": "AliExpress",
+      "category": "kitchen",
+      "buy_price": 54.99,
+      "source_url": "https://www.aliexpress.com/item/1005013275703208.html",
+      "ebay_price": 82.48,
+      "profit": 27.49,
+      "roi_pct": 50.0
+    },
+    {
+      "name": "Extra Large Stainless Steel Litter Box with Lid, Metal Litter Boxes",
+      "source": "Amazon AU",
+      "category": "pet",
+      "buy_price": 54.98,
+      "source_url": "https://www.amazon.com.au/dp/B0H9SXJ3M3",
+      "ebay_price": 82.47,
+      "profit": 27.49,
+      "roi_pct": 50.0
+    },
+    {
+      "name": "Main color",
+      "source": "AliExpress",
+      "category": "kitchen",
+      "buy_price": 54.75,
+      "source_url": "https://www.aliexpress.com/item/1005005703175226.html",
+      "ebay_price": 82.12,
+      "profit": 27.37,
+      "roi_pct": 50.0
+    },
+    {
+      "name": "Deals \\u0026 discounts",
+      "source": "AliExpress",
+      "category": "kitchen",
+      "buy_price": 53.53,
+      "source_url": "https://www.aliexpress.com/item/1005011827689064.html",
+      "ebay_price": 80.3,
+      "profit": 26.77,
+      "roi_pct": 50.0
+    },
+    {
+      "name": "Interface Type",
+      "source": "AliExpress",
+      "category": "employee",
+      "buy_price": 53.51,
+      "source_url": "https://www.aliexpress.com/item/1005010706979194.html",
+      "ebay_price": 80.27,
+      "profit": 26.76,
+      "roi_pct": 50.0
+    },
+    {
+      "name": "Fingerprint Door Lock, Smart Fingerprint Door Knob with Lock, Silver",
+      "source": "Amazon AU",
+      "category": "home",
+      "buy_price": 52.13,
+      "source_url": "https://www.amazon.com.au/s?k=Fingerprint+Door+Lock%2C+Smart+Fingerprint+Door+Knob+with+Lock%2C+Silver",
+      "ebay_price": 78.2,
+      "profit": 26.07,
+      "roi_pct": 50.0
+    },
+    {
+      "name": "Benazcap Memory Foam Seat Cushion for Office Chair, Sciatica Pain Relief",
+      "source": "Amazon AU",
+      "category": "employee",
+      "buy_price": 50.99,
+      "source_url": "https://www.amazon.com.au/dp/B0C3H7CSQC",
+      "ebay_price": 76.48,
+      "profit": 25.49,
+      "roi_pct": 50.0
+    }
+  ]
+}
